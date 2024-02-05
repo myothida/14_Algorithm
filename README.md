@@ -1,0 +1,2 @@
+This repo includes the assignments and lectures conducted in the Data Structures and Algorithm Course. This Course teaches you the fundamental principles and techniques for designing and implementing efficient algorithms and data structures. 
+Throughout the course, you'll delve into the core concepts that form the backbone of computer science, enabling you to write more efficient and scalable code.
