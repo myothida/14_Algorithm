@@ -14,7 +14,7 @@ def partition(array, start, end):
             break
     
     array[start], array[high] = array[high], array[start]
-    
+    print(high, array)
     return high
 
 def quick_sort(array, start, end):
@@ -29,6 +29,6 @@ def quick_sort(array, start, end):
 
 if __name__ == "__main__":
     # Example usage:
-    unsorted_array = [5, 3, 8, 6, 4, 2, 7, 1]
+    unsorted_array = [1430, 3292, 7684, 1338, 193, 595, 4243, 9002, 4393, 130,1001] 
     sorted_array = quick_sort(unsorted_array, 0, len(unsorted_array) - 1)
     print("Sorted array:", sorted_array)
